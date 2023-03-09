@@ -26,7 +26,7 @@ function DashaplayBandjo(name) {
 alert(DashaplayBandjo(name));
 ```
 ### My experience in coding HTML,CSS and JavaScript so small. 
-[Link to repository]:
+[Link to project with no-code technology] [https://profgosgomel.by/] 
 
 ### Qualifications
 I graduated Belarusian Technical University in 2011. I have twice diplomas. My first qualification it's a teacher informatics. Second an engineer-programmist. 
