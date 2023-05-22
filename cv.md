@@ -6,7 +6,7 @@
 #### +375 (44) 718 50 22
 
 ### My goals
-I'm 34. I'm devorced. My goal learn coding at this year. I'm kind and i love work at IT community. I love technology. I think it's a new stage for the people in our live. I worked with conception "no-code". I created about 10 comercial project used CMS Joomla and Wordpress. That's all.
+I'm 34. I'm devorced. I was born and live in Gomel Belarus. My goal learn coding at this year. I'm kind and i love work at IT community. I love technology. I think it's a new stage for the people in our live. I worked with conception "no-code". I created about 10 comercial project used CMS Joomla and Wordpress. That's all.
 
 ### Do you learn Programming language?
 I'm learned Pascal and Delphi in 2006. I used a little JavaScript. I don't know can i write about HTML and CSS because it's not Programming language but i finished little courses and work keeping at my repository. [Link to repository] [https://github.com/SergeyGyzhev/Result.school]
@@ -29,7 +29,7 @@ alert(DashaplayBandjo(name));
 [Link to project with no-code technology] [https://profgosgomel.by/] 
 
 ### Qualifications
-I graduated Belarusian Technical University in 2011. I have twice diplomas. My first qualification it's a teacher informatics. Second an engineer-programmist. 
+I graduated Belarusian National Technical University in 2011. I have twice diplomas. My first qualification it's a teacher informatics. Second an engineer-programmist. 
 
 ### English level
 My English skill A2 or A1. I have a certificate. I need more practice with language. I wanna learn this language because it's an international language which used all people in the Earth.
