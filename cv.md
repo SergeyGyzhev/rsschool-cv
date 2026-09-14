@@ -1,35 +1,59 @@
-# My CV
-## My first and latest name
-#### Sergey Gyzhev 
+# Sergey Gyzhev
 
-### My mobile number
-#### +375 (44) 718 50 22
+**Full-Stack Web Developer · AI-Assisted Development**
 
-### My goals
-I'm 34. I'm devorced. My goal learn coding at this year. I'm kind and i love work at IT community. I love technology. I think it's a new stage for the people in our live. I worked with conception "no-code". I created about 10 comercial project used CMS Joomla and Wordpress. That's all.
+![Sergey Gyzhev](https://avatars.githubusercontent.com/u/92232508?v=4)
 
-### Do you learn Programming language?
-I'm learned Pascal and Delphi in 2006. I used a little JavaScript. I don't know can i write about HTML and CSS because it's not Programming language but i finished little courses and work keeping at my repository. [Link to repository] [https://github.com/SergeyGyzhev/Result.school]
+Belarus · Gomel · Open to remote / freelance
 
-### My latest code on JavaScript
-```
-let name = prompt('Enter the name');
-function DashaplayBandjo(name) {
-    if (name[0] == "D" || name[0] == "d") {
-        name += ' play Bandjo'
-    }
-    else {
-        name += ' does not play Bandjo'
-    }
-    return name;
+## Contacts
+
+- Phone: +375 (44) 718-50-22
+- Email: [sergeygyzhev@gmail.com](mailto:sergeygyzhev@gmail.com)
+- GitHub: [github.com/SergeyGyzhev](https://github.com/SergeyGyzhev)
+- Projects: [github.com/SergeyGyzhev/Result.school](https://github.com/SergeyGyzhev/Result.school)
+- LinkedIn: [linkedin.com/in/sergey-gyzhev-7a1660109](https://www.linkedin.com/in/sergey-gyzhev-7a1660109/)
+- Discord: Scazi
+
+## Profile
+
+Web developer with almost **4 years** of commercial experience and **150+ shipped projects**. I build and maintain websites and web apps with **CMS**, **Laravel**, **React**, and modern front-end tooling. I actively use **AI coding agents** in day-to-day work to speed up delivery while keeping quality and structure under control. Strong background in PHP, HTML, CSS, and JavaScript; focused on practical product results, clean UI, and motion design.
+
+## Skills
+
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Backend / CMS:** Laravel, CMS platforms, custom PHP
+- **Frontend:** React, motion design / UI animation
+- **Workflow:** AI coding agents, Git, commercial project delivery
+- **Earlier base:** Pascal, Delphi (2006)
+
+## Code example
+
+```javascript
+function multiply(a, b) {
+  return a * b;
 }
-alert(DashaplayBandjo(name));
 ```
-### My experience in coding HTML,CSS and JavaScript so small. 
-[Link to project with no-code technology] [https://profgosgomel.by/] 
 
-### Qualifications
-I graduated Belarusian Technical University in 2011. I have twice diplomas. My first qualification it's a teacher informatics. Second an engineer-programmist. 
+## Experience
 
-### English level
-My English skill A2 or A1. I have a certificate. I need more practice with language. I wanna learn this language because it's an international language which used all people in the Earth.
+### Web Developer · Commercial projects
+
+**~2022 — Present** (almost 4 years)
+
+- Delivered **150+ commercial websites and web projects** for clients
+- Stack: **CMS + core web stack** (PHP, HTML, CSS, JavaScript), later extended with **Laravel** and **React**
+- Built and maintained production sites, including no-code / CMS-driven solutions
+- Example: [profgosgomel.by](https://profgosgomel.by/)
+- Training projects: [Result.school](https://github.com/SergeyGyzhev/Result.school)
+
+## Education
+
+- 2011 — Belarusian National Technical University (BNTU), Informatics teacher
+- 2012 — Belarusian National Technical University (BNTU), Engineer-programmer
+- 2023 — RS School, JavaScript / Front-end 2023Q1
+- 2026 — RS School, Full-Stack JavaScript 2026 Q3
+
+## English
+
+Level: **A2**. I have a language certificate and continue practicing English for professional communication.
